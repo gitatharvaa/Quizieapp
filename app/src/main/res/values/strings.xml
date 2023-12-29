@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizie</string>
+    <string name="title_a_quiz_app">TITLE : A Quiz app</string>
+    <string name="java">Java</string>
+    <string name="right">right</string>
+    <string name="wrong">wrong</string>
+    <string name="logo">logo</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+</resources>
